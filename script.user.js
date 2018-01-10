@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Questionable Content Image Resizer
-// @namespace    http://tampermonkey.net/
+// @namespace    QCIR
 // @version      1.0
 // @description  hotfix to the weird resizing of questionable content's images
 // @author       Thierno Rignoux
