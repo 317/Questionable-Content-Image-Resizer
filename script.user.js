@@ -10,7 +10,6 @@
 
 (function() {
     'use strict';
-    document.querySelector('#container .row .small-2').remove();
-    document.querySelector('#container .row .small-10').classList.add("small-12");
-    document.querySelector('#container .row .small-10').classList.remove("small-10");
+    document.querySelector('#container .row .small-2').appendChild(document.querySelector('[href*="privacy.php"]'));
+    document.querySelector('#container .row .small-2').appendChild(document.querySelector('[href*="dord.png"]'));
 })();
