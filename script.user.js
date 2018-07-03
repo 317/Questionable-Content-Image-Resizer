@@ -5,6 +5,7 @@
 // @description  hotfix to the weird resizing of questionable content's images
 // @author       Thierno Rignoux
 // @match        *.questionablecontent.net/view.php*
+// @match        *.questionablecontent.net
 // @grant        none
 // ==/UserScript==
 
